@@ -68,9 +68,9 @@ export default {
   //   border: 1px solid rgba(0, 0, 0, 0.1);
   //   -webkit-border-radius: 5px;
   // }
-  // /*
+  
   // 悬浮时
-  // */
+  
   // &::-webkit-scrollbar-thumb:hover {
   //   background-color: #f6f6f6;
   //   border: 1px solid rgba(0, 0, 0, 0.1);
